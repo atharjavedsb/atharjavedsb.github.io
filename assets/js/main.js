@@ -94,7 +94,7 @@
 
     function skill_javaScript() {
         $('#javascript').LineProgressbar({
-            percentage: 65,
+            percentage: 90,
             radius: '3px',
             height: '10px',
             duration: 6000,
@@ -105,7 +105,7 @@
 
     function skill_jquery() {
         $('#jquery').LineProgressbar({
-            percentage: 75,
+            percentage: 90,
             radius: '3px',
             height: '10px',
             duration: 6000,
@@ -125,16 +125,27 @@
     }
     skill_wordpress();
 
-    function skill_web_design() {
-        $('#web-design').LineProgressbar({
-            percentage: 90,
+    function skill_json() {
+        $('#json').LineProgressbar({
+            percentage: 95,
             radius: '3px',
             height: '10px',
             duration: 6000,
             backgroundColor: '#ddd'
         });
     }
-    skill_web_design();
+    skill_json();
+
+    function skill_angular() {
+        $('#angular').LineProgressbar({
+            percentage: 80,
+            radius: '3px',
+            height: '10px',
+            duration: 6000,
+            backgroundColor: '#ddd'
+        });
+    }
+    skill_angular();
 
     function skill_php() {
         $('#php').LineProgressbar({
@@ -147,16 +158,16 @@
     }
     skill_php();
 
-    function skill_web_development() {
-        $('#web-development').LineProgressbar({
-            percentage: 75,
+    function skill_restuful_api() {
+        $('#restuful-api').LineProgressbar({
+            percentage: 80,
             radius: '3px',
             height: '10px',
             duration: 6000,
             backgroundColor: '#ddd'
         });
     }
-    skill_web_development();
+    skill_restuful_api();
 
     /*--------------------------------
      05. jQuery counterUp
