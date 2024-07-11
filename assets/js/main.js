@@ -23,7 +23,6 @@
  10. Back To Top Scroll Arrow
  ========================================================================*/
 
-
 (function ($) {
     // Start of use strict
     'use strict';
