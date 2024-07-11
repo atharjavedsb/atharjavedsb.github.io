@@ -138,7 +138,7 @@
 
     function skill_angular() {
         $('#angular').LineProgressbar({
-            percentage: 80,
+            percentage: 90,
             radius: '3px',
             height: '10px',
             duration: 6000,
@@ -160,7 +160,7 @@
 
     function skill_restuful_api() {
         $('#restuful-api').LineProgressbar({
-            percentage: 80,
+            percentage: 90,
             radius: '3px',
             height: '10px',
             duration: 6000,
